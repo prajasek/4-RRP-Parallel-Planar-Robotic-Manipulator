@@ -1,6 +1,11 @@
 # 4RRP-Parallel-Robotic-Manipulator
 Graphical User Interface for a 4-RRP planar parallel robotic manipulator.
-MATLAB GUI for Robotic Manipulator
+
+----------------------------------------------------------------------
+NOTE : mmr_project.m contains the code.
+----------------------------------------------------------------------
+
+
 List of operations on GUI
 
 Reset/set: Reset button will bring back the guide to its default value. 
